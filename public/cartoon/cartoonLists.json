@@ -1,0 +1,214 @@
+[
+    {
+      "img": "../displayImg/k-head.jpg",
+      "img_bg": "../bgImg/kuaibawogedaizou-bg.png",
+      "follow": 115,
+      "name": "快把我哥带走",
+      "author": "幽·灵",
+      "type": "青春 日常",
+      "info": "爆笑类经典热作！每天坑妹一万次的哥哥和暴走的妹妹相爱相杀，每一话让你笑到停不下来！搞笑又温情，画风轻松治愈！2016年度网络最火爆的搞笑漫画之一！",
+      "id": 1,
+      "imglist": [
+          {
+              "img": "../displayImg/k-c1.jpg",
+              "id": 1,
+              "name": "第1话 喝可乐"
+          },
+          {
+              "img": "../displayImg/k-c2.jpg",
+              "id": 2,
+              "name": "第2话 谁让你吃完的？"
+          },
+          {
+              "img": "../displayImg/k-c3.jpg",
+              "id": 3,
+              "name": "第3话 黑暗料理"
+          },
+          {
+              "img": "../displayImg/k-c4.jpg",
+              "id": 4,
+              "name": "第4话 我哥有健忘症"
+          },
+          {
+              "img": "../displayImg/k-c5.jpg",
+              "id": 5,
+              "name": "第5话 石头剪刀布"
+          }
+      ]
+    },
+    {
+      "img":"../displayImg/g-head.jpg",
+      "img_bg": "../bgImg/yigexiaoheshang-bg.png",
+      "follow": 96,
+      "name": "给我来个小和尚",
+      "author": "郭斯特",
+      "type": "奇幻 剧情 爆笑",
+      "info": "在妖怪的世界，小狐狸是个不被注意的家伙。每天独来独往，生活也很单调。直到有一天，它遇见了误入妖怪镇的小和尚……那个头圆圆的小和尚你给我站住，闯进了我的地盘，就别想跑啦！爆笑治愈的小和尚和小狐狸，每天喂你一勺暖和甜。",
+      "id": 2,
+      "imglist": [
+            {
+          "img":"../displayImg/g-c1.jpg",
+          "id": 1,
+        "name": "第1话 第一次见那和尚"
+            },
+            {
+          "img":"../displayImg/g-c2.jpg",
+          "id": 2,
+        "name": "第2话 谁说狐狸不吃胡萝卜"
+            },
+            {
+          "img":"../displayImg/g-c3.jpg",
+          "id": 3,
+        "name": "第3话 师兄竟然拿买菜的钱去摸耳朵？？？"
+            },
+            {
+          "img":"../displayImg/g-c4.jpg",
+          "id": 4,
+        "name": "第4话 趁着大师兄睡觉小狐狸竟然..."
+            },
+            {
+          "img":"../displayImg/g-c5.jpg",
+          "id": 5,
+        "name": "第5话 大师兄的小梦妖"
+            }
+        ]
+    },
+    {
+      "img":"../displayImg/w-head.jpg",
+      "img_bg": "../bgImg/dashixiongnaoziyoukeng-bg.png",
+      "follow": 90,
+      "name": "我家大师兄脑子有坑",
+      "author": "凌宇沫",
+      "type": "搞笑 穿越 修仙",
+      "info": "主角穿越到修真世界之后，发现自己不是主角设定！这不就坑爹了吗？打怪升级不重要了！活下去才是问题啊！",
+      "id": 3,
+      "imglist": [
+            {
+          "img":"../displayImg/w-c1.jpg",
+          "id": 1,
+        "name": "第1~4话  那一年大师兄十二岁"
+            },
+            {
+          "img":"../displayImg/w-c2.jpg",
+          "id": 2,
+        "name": "第5~8话 其实，我是个穿越过来的"
+            },
+            {
+          "img":"../displayImg/w-c3.jpg",
+          "id": 3,
+        "name": "第9~11话 这个世界有种东西叫做主角光环"
+            }
+        ]
+    },
+    {
+      "img":"../displayImg/f-head.jpg",
+      "img_bg": "../bgImg/feirenzai-bg.png",
+      "follow": 120,
+      "name": "非人哉",
+      "author": "一汪空气",
+      "type": "奇幻 搞笑 非人类",
+      "info": "萌化后的神怪在人间，爆笑日常更新中",
+      "id": 4,
+      "imglist": [
+            {
+          "img":"../displayImg/f-c1.jpg",
+          "id": 1,
+        "name": "第1话 我是九月 "
+            },
+            {
+          "img":"../displayImg/f-c2.jpg",
+          "id": 2,
+        "name": "第2话 龙王"
+            },
+            {
+          "img":"../displayImg/f-c3.jpg",
+          "id": 3,
+        "name": "第3话 观音大大"
+            },
+            {
+          "img":"../displayImg/f-c4.jpg",
+          "id": 4,
+        "name": "第4话 龙力微波"
+            },
+            {
+          "img":"../displayImg/f-c5.jpg",
+          "id": 5,
+        "name": "第5话 月饼节"
+            }
+        ]
+    },
+    {
+      "img":"../displayImg/wm-head.jpg",
+      "img_bg": "../bgImg/wuhuangbazhahei-bg.png",
+      "follow": 98,
+      "name": "吾皇巴扎黑",
+      "author": "吾皇的白茶",
+      "type": "猫皇 搞笑 动物",
+      "info": "高冷的喵星人原则：看心情。 家里的狗和主人，都是喵主子的玩物！",
+      "id": 5,
+      "imglist": [
+            {
+          "img":"../displayImg/wm-c1.jpg",
+          "id": 1,
+        "name": "第1话 喵星人都是讲原则的！"
+            },
+            {
+          "img":"../displayImg/wm-c2.jpg",
+          "id": 2,
+        "name": "第2话 傲娇是猫的原则"
+            },
+            {
+          "img":"../displayImg/wm-c3.jpg",
+          "id": 3,
+        "name": "第3话 猪一样的狗队友"
+            },
+            {
+          "img":"../displayImg/wm-c4.jpg",
+          "id": 4,
+        "name": "第4话 纯洁的你哪去了"
+            },
+            {
+          "img":"../displayImg/wm-c5.jpg",
+          "id": 5,
+        "name": "第5话 让我吃胖一定是人类的陷阱"
+            }
+        ]
+    },
+    {
+      "img":"../displayImg/mk-head.jpg",
+      "img_bg": "../bgImg/mokashaonvying-bg.png",
+      "follow": 5.5,
+      "name": "魔卡少女樱",
+      "author": "CLAMP",
+      "type": "校园 恋爱 奇幻 剧情",
+      "info": "木之本樱，友枝小学四年级学生，是个有着樱花般烂漫笑颜的阳光女孩。一天，她在父亲的书房中发现了一本尘封已久的魔法书，并无意间解除了书上的封印，伴随着一阵吹散书中库洛牌的大风，一只“封印之兽”可鲁贝洛斯出现在她的眼前……",
+      "id": 6,
+      "imglist": [
+            {
+          "img":"../displayImg/mk-c1.jpg",
+          "id": 1,
+        "name": "第1话 封印解除"
+            },
+            {
+          "img":"../displayImg/mk-cAll.jpg",
+          "id": 2,
+        "name": "第2话 蓝之章开启！"
+            },
+            {
+          "img":"../displayImg/mk-cAll.jpg",
+          "id": 3,
+        "name": "第3话 王子的过去"
+            },
+            {
+          "img":"../displayImg/mk-cAll.jpg",
+          "id": 4,
+        "name": "第4话 校园再次相遇~"
+            },
+            {
+          "img":"../displayImg/mk-cAll.jpg",
+          "id": 5,
+        "name": "第5话 入学首日 "
+            }
+        ]
+    }
+]

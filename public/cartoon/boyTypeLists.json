@@ -1,0 +1,19 @@
+[
+  {
+    "img": "../displayImg/boyDisplayImg/j-head.png",
+    "img_bg": "../bgImg/kuaibawogedaizou-bg.png",
+    "follow": 8.9,
+    "name": "少年时代",
+    "author": "海上榕树",
+    "type": "格斗 校园",
+    "info": "故事讲述，男主角在学校想靠暴力手段统治别人，可他渐渐的失去了人心，小伙伴群起而攻之，之前不可一世的主角被孤立后，在迷失与孤独中，渐渐的懂得了怎样才能获得友情！",
+    "id": 1,
+    "imglist": [
+      {
+        "img": "../displayImg/boyDisplayImg/j-c1.png",
+        "id": 1,
+        "name": "第1话"
+      }
+    ]
+  }
+]

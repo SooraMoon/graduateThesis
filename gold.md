@@ -1,0 +1,10 @@
+### 未来学习目标
+1. 开始论文撰写
+2. 学习ES6、js、ts
+3. 继续学习Vue3开发项目（逻辑优先）
+4. 学习node.js+cheerio+puppeteer爬虫（包括学习express）
+5. 学习bootstra、Sass、Less（编写页面，不需要花太多精力）
+6. 学习java原理（核心思想），重新拾起是为了更好前行
+7. 学习kotlin
+8. 学习Python
+9. 学习springBoot、Redis、MQ（中间件）

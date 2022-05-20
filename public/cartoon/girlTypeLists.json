@@ -1,0 +1,19 @@
+[
+  {
+    "img": "../displayImg/girlDisplayImg/am-head.png",
+    "img_bg": "../bgImg/saimaniang-bg.png",
+    "follow": 26.2,
+    "name": "阿满和麦茶",
+    "author": "新漫画",
+    "type": "治愈 搞笑",
+    "info": "养一只贱兮兮的猫是什么体验？臭脸贱猫麦茶和抖M铲屎官阿满的爆笑日常，让每一个铲屎官都感同身受！还有麦茶的猫咪朋友们，和阿满的朋友邻里之间发生的精彩故事。养猫一族的欢乐群像，猫咪间的爱恨情仇，人猫间的相爱相杀……人类，你做好准备感受云撸猫带来的快乐了吗？",
+    "id": 1,
+    "imglist": [
+      {
+        "img": "../displayImg/girlDisplayImg/am-head.png",
+        "id": 1,
+        "name": "第1话 这是阿满和麦茶"
+      }
+    ]
+  }
+]
